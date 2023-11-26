@@ -8,5 +8,7 @@ Initially conceived as a compact project for academic purposes, the aim is to ex
 
 **Planned Expansion**
 _GUI Implementation:_ A graphical user interface (GUI) will be integrated to enhance usability and accessibility for users.
+
 _Functionality Expansion:_ The intent is to broaden the capabilities by adding features like search, sorting, and statistical analysis tools.
+
 _Scalability:_ Design enhancements and code optimizations will be made to accommodate larger datasets and improve overall system performance.
